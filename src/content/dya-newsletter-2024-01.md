@@ -52,7 +52,7 @@ Take action: [fill 5-minute anonymous questionnaire](https://forms.office.com/e/
 The Delft Young Academy hosts the interactive theatre performance "Science Communcation: Rewarded!" on February 28, 15.00-16.30, at the X theater hall.
 This event, developed by Dr. Frank Kupper with support from the Dutch Academy of Sciences, addresses the integration of science communication into academic work. It explores support, recognition, and rewards for scientists in this realm. The performance, followed by a drink session, is free and aims to inspire action with engaging and thought-provoking content.
 
-Take action: Scan above QR code, or [Sign up online here](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIe0uZ4PYy5dROlpMVVMbaUd1UNTBHTUZaUDNWNVFXTTdEOUw1SEFQWVNKMS4u).
+Take action: Scan above QR code, or [Sign up online here](https://forms.office.com/e/7sfSaXBaJf).
 
 ---
 
@@ -79,13 +79,13 @@ This event is uniquely designed to ignite your creative spark and enhance your w
 Join the Delft Young Academy on **1 February, 2024** for the 'Everyone Professor!' symposium. This event, led by Ineke Sluiter, aims to address the rights disparity between assistant and full professors. It's part of the academy's commitment to advancing equality in academic roles.
 The symposium, scheduled from **3:00 PM to 5:00 PM in Amsterdam**, invites all to engage in this pivotal debate. Be a part of this significant conversation as we turn dialogue into action.
 
-Take action: [Checkout and join the program](https://www.lyyti.fi/reg/iedereen-professor-1-februari)
+Take action: [Join the program](https://www.lyyti.fi/reg/iedereen-professor-1-februari)
 
 ### The Academy Thermometer
 
 The National Young Academy is addressing the critical issue of academic mental health through “The Academy Thermometer” survey. This initiative seeks to understand factors affecting the well-being of academics in the Netherlands, including job satisfaction, working conditions, and mental health challenges. All academics are encouraged to participate and contribute to this important research.
 
-Take action: [Fill survey online](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_dm2GjuBsnNk5lOu)
+Take action: [Fill the survey online](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_dm2GjuBsnNk5lOu)
 
 ### Sustainable Healthcare Challenge
 
