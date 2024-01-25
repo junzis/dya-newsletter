@@ -18,14 +18,24 @@ Following our updates on: [Website](https://www.tudelft.nl/en/research/cooperati
 ### Topical lunches
 
 - 31 January 2024: \
-   **APNet work plan** \
-   Speaker: Dr. Martin Skrodzki, Asst. Professor, EEMCS\
-   \
-   Take action: [register here](https://forms.office.com/e/6rrVFpwUjF)
+   **Assistant Professor Network (APNet) Initiatives: everyone professor, ius promovendi and beyond** \
+  The APNet is a national body for Assistant Professors in the Netherlands, focusing on networking and policy influence.\
+  \
+  Speaker: Dr. Martin Skrodzki, EEMCS\
+   ![speaker](https://raw.githubusercontent.com/junzis/dya-newsletter-images/main/images/2024-01/martin.jpg){width=100}\
+  \
+  Take action: [register here](https://forms.office.com/e/6rrVFpwUjF)
 
 - 22 February 2024: \
    **Catalyzing Change: Climate activism in academia** \
-   Speakers: Helena Schmidt, Denzel Ignacia, and Mylène van der Koogh
+  Scientist Rebellion is a global group of scientists and academics focused on climate crisis awareness and action. They engage in civil disobedience, organize marches, write for media, and promote ecological sustainability in institutions.\
+  \
+   Speakers: Helena Schmidt, Denzel Ignacia, and Mylène van der Koogh\
+   ![speaker](https://raw.githubusercontent.com/junzis/dya-newsletter-images/main/images/2024-01/helena.jpg){width=100}
+  ![speaker](https://raw.githubusercontent.com/junzis/dya-newsletter-images/main/images/2024-01/denzel.jpg){width=100}
+  ![speaker](https://raw.githubusercontent.com/junzis/dya-newsletter-images/main/images/2024-01/mylene.jpg){width=100}\
+   \
+   Take action: [register here](https://forms.office.com/e/4L6GrHugk0)
 
 ### Special Fellowship Project
 
