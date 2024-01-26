@@ -25,7 +25,7 @@
   </style>
   <stack name="head" />
 </head>
-<body class="m-0 p-0 w-full [word-break:break-word] [-webkit-font-smoothing:antialiased] {{ page.bodyClass || 'bg-[#0F172A]' }}">
+<body class="m-0 p-0 w-full [word-break:break-word] [-webkit-font-smoothing:antialiased] {{ page.bodyClass }}">
   <if condition="page.preheader">
     <div class="hidden">
       {{{ page.preheader }}}
@@ -38,16 +38,25 @@
     role="article"
     aria-roledescription="email"
     lang="{{ page.language || 'en' }}"
-    class="sm:px-4 {{ page.bodyClass || 'bg-[#0F172A]' }}"
+    class="px-8 sm:px-2 {{ page.bodyClass || 'bg-[#f3f3f3]' }}"
     aria-label="{{{ page.title || '' }}}"
   >
-    <x-spacer height="20px" />
+    <x-spacer height="10px" />
     <table class="font-sans min-w-fit">
       <tr>
-        <td class="w-2/3 py-8 bg-white rounded-md">
+        <td class="w-2/3 py-8 md:py-2 bg-white rounded-md">
           <table class="w-full">
             <tr>
-              <td class="px-8 sm:px-4 max-w-0">
+              <td class="px-8 md:px-2 sm:px-2 max-w-0">
+
+                <div class="flex w-auto bg-cyan-950 text-center p-2">
+                  <div class="m-auto text-2xl text-white pt-2">
+                    <img src="https://raw.githubusercontent.com/tudelft-dya/dya-newsletter-images/main/images/tud_logo_white.png" alt="tudelft_logo" class="h-9 pb-6">
+                    <span class="mx-2">|</span>
+                    <span>Delft Young Academy</span>
+                  </div>
+                </div>
+              
                 <content />
               </td>
             </tr>
@@ -59,7 +68,7 @@
       </tr>
       <tr>
         <td class="px-8 sm:px-4">
-          <p class="m-0 mb-2 text-sm text-slate-400">
+          <p class="m-0 mb-2 text-sm text-slate-4600">
             Delft Young Academy
             <br>
             If you no longer wish to receive these emails,
@@ -67,7 +76,7 @@
           </p>
         </td>
       </tr>
-    </table>u
+    </table>
 
     <x-spacer height="40px" />
   </div>

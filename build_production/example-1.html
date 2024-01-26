@@ -96,6 +96,10 @@
         color: #cbd5e1 !important;
       }
       @media (max-width: 600px){
+        .sm-px-2{
+          padding-left: 8px !important;
+          padding-right: 8px !important;
+        }
         .sm-px-4{
           padding-left: 16px !important;
           padding-right: 16px !important;
@@ -103,23 +107,30 @@
       }
     </style>
   </head>
-  <body style="margin: 0; width: 100%; background-color: #0F172A; padding: 0; -webkit-font-smoothing: antialiased; word-break: break-word">
-    <div align="center" role="article" aria-roledescription="email" lang="en" class="sm-px-4" aria-label="Edition #1: Using Markdown to create HTML emails with Maizzle" style="background-color: #0F172A">
-      <div role="separator" style="line-height: 20px">&zwj;</div>
+  <body style="margin: 0; width: 100%; padding: 0; -webkit-font-smoothing: antialiased; word-break: break-word">
+    <div align="center" role="article" aria-roledescription="email" lang="en" class="sm-px-2" aria-label="Edition #1: Using Markdown to create HTML emails with Maizzle" style="background-color: #f3f3f3; padding-left: 32px; padding-right: 32px">
+      <div role="separator" style="line-height: 10px">&zwj;</div>
       <table style="min-width: fit-content; font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" cellpadding="0" cellspacing="0" role="none">
         <tr>
           <td style="width: 66.666667%; border-radius: 6px; background-color: #fff; padding-top: 32px; padding-bottom: 32px">
             <table style="width: 100%;" cellpadding="0" cellspacing="0" role="none">
               <tr>
-                <td class="sm-px-4" style="max-width: 0; padding-left: 32px; padding-right: 32px">
+                <td class="sm-px-2" style="max-width: 0; padding-left: 32px; padding-right: 32px">
+                  <div style="display: flex; width: auto; background-color: #083344; padding: 8px; text-align: center">
+                    <div style="margin: auto; padding-top: 8px; font-size: 24px; color: #fff">
+                      <img src="https://raw.githubusercontent.com/tudelft-dya/dya-newsletter-images/main/images/tud_logo_white.png" alt="tudelft_logo" style="max-width: 100%; vertical-align: middle; line-height: 100%; border: 0; height: 36px; padding-bottom: 24px">
+                      <span style="margin-left: 8px; margin-right: 8px">|</span>
+                      <span>Delft Young Academy</span>
+                    </div>
+                  </div>
                   <h1 style="font-size: 30px; line-height: 36px; color: #0f172a; margin: 0 0 40px">Edition #1: Using Markdown to create HTML emails with Maizzle</h1>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px"><img src="images/feature.jpg" alt="Spaceman on planet surface" width="536" style="max-width: 100%; vertical-align: middle; line-height: 100%; border: 0"></p>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px;">
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px"><img src="images/feature.jpg" alt="Spaceman on planet surface" width="536" style="max-width: 100%; vertical-align: middle; line-height: 100%; border: 0;"></p>
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px;">
                     This is a
                     <img src="images/insignia.png" alt="Maizzle " width="20" style="max-width: 100%; vertical-align: middle; line-height: 100%; border: 0;">
                     arkdown starter project that will help you get started with creating newsletter email templates from Markdown files in Maizzle.
                   </p>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px;">It supports all the framework features you already know and love:</p>
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px;">It supports all the framework features you already know and love:</p>
                   <ul style="line-height: 24px; color: #475569">
                     <li>Tailwind CSS</li>
                     <li>components</li>
@@ -134,7 +145,7 @@
                   </ol>
                   <hr style="height: 1px; border-width: 0px; background-color: #cbd5e1; color: #cbd5e1; margin-top: 32px; margin-bottom: 32px">
                   <h2 style="font-size: 24px; line-height: 32px; color: #0f172a">Components</h2>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px;">You can import Maizzle components right into your Markdown files. For example, the following button is a component:</p>
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px;">You can import Maizzle components right into your Markdown files. For example, the following button is a component:</p>
                   <div>
                     <!--[if mso]>
   <v:roundrect arcsize="10%" style="height: 44px; mso-wrap-style: none;" stroke="f" fillcolor="#4f46e5">
@@ -154,7 +165,7 @@
                   </div>
                   <hr style="height: 1px; border-width: 0px; background-color: #cbd5e1; color: #cbd5e1; margin-top: 32px; margin-bottom: 32px;">
                   <h2 style="font-size: 24px; line-height: 32px; color: #0f172a">Styling</h2>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px;">
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px;">
                     The starter includes CSS styles for common elements like paragraphs, headings, links, images, lists,
                     <code style="border-radius: 4px; padding: 2px 6px; white-space: normal; font-size: 14px; border: 1px solid #e2e8f0; background-color: #f8fafc; color: #ec4899;">inline code</code>
                     , or blockquotes:
@@ -162,7 +173,7 @@
                   <blockquote style="border-left: 4px solid #6366f1; margin: 0 0 32px; padding-left: 16px">
                     <p style="color: #475569; margin: 0; font-size: 18px; line-height: 28px;">One small step for man, one giant leap for mankind.</p>
                   </blockquote>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px;">It even supports code blocks:</p>
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px;">It even supports code blocks:</p>
                   <pre
                     style="margin-bottom: 24px; overflow: auto; white-space: pre; border-radius: 8px; padding: 24px; text-align: left; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 16px; color: #cbd5e1; hyphens: none; tab-size: 2; word-break: normal; word-spacing: normal; word-wrap: normal; background-color: #292D3E"
                     tabindex="0"
@@ -170,7 +181,7 @@
 <span><span style="color: #BABED8">  </span><span style="color: #89DDFF">&lt;</span><span style="color: #F07178">a</span><span style="color: #89DDFF"> </span><span style="color: #C792EA">href</span><span style="color: #89DDFF">=</span><span style="color: #89DDFF">&quot;</span><span style="color: #C3E88D">https://maizzle.com</span><span style="color: #89DDFF">&quot;</span><span style="color: #89DDFF">&gt;</span><span style="color: #BABED8">Maizzle</span><span style="color: #89DDFF">&lt;/</span><span style="color: #F07178">a</span><span style="color: #89DDFF">&gt;</span><span style="color: #BABED8"> is a framework for building responsive HTML emails with Tailwind CSS.</span></span>
 <span><span style="color: #89DDFF">&lt;/</span><span style="color: #F07178">p</span><span style="color: #89DDFF">&gt;</span></span>
 <span></span></code></pre>
-                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 32px;">
+                  <p style="font-size: 16px; line-height: 24px; color: #475569; margin: 0 0 16px;">
                     Cheers,
                     <br>
                     The Maizzle Team
@@ -185,17 +196,16 @@
         </tr>
         <tr>
           <td class="sm-px-4" style="padding-left: 32px; padding-right: 32px">
-            <p style="line-height: 24px; margin: 0 0 8px; font-size: 14px; color: #94a3b8">
+            <p style="line-height: 24px; color: #475569; margin: 0 0 8px; font-size: 14px">
               Delft Young Academy
               <br>
               If you no longer wish to receive these emails, you can
-              <a href="https://listserv.tudelft.nl/mailman/listinfo/delft-young-academy" class="hover-text-slate-300" style="text-decoration: underline; color: #94a3b8;">unsubscribe</a>
+              <a href="https://listserv.tudelft.nl/mailman/listinfo/delft-young-academy" class="hover-text-slate-300" style="text-decoration: underline; color: #94a3b8">unsubscribe</a>
               .
             </p>
           </td>
         </tr>
       </table>
-      u
       <div role="separator" style="line-height: 40px">&zwj;</div>
     </div>
   </body>
